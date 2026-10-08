@@ -1,0 +1,9 @@
+.git
+.gradle
+.github
+.vscode
+build
+frontend
+.env
+.env.*
+*.md
